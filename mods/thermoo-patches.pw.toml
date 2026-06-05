@@ -1,0 +1,13 @@
+name = "Thermoo Patches"
+filename = "thermoo_patches-0.1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TYRF9nUy/versions/MLXcX3U1/thermoo_patches-0.1.0-neoforge.jar"
+hash-format = "sha512"
+hash = "a86be17b94260dfb777963e4692fe6f962103277778dbb6e9d18a389128524931ab68c62399ad7de7daaa048c6895998c8ccb8929c3cc25102cf1fd47762d677"
+
+[update]
+[update.modrinth]
+mod-id = "TYRF9nUy"
+version = "MLXcX3U1"
