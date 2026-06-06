@@ -14,4 +14,4 @@ neoforge = "21.1.233"
 
 [options]
 acceptable-game-versions = ["1.21", "1.21.1"]
-datapack-folder = "config/openloader/data/"
+datapack-folder = "config/openloader/packs/"
