@@ -26,11 +26,6 @@ hash = "e2fa0a0c652d1a4cdec2ecc122c968c2a4b1cb36c2cdd874e10d8b04edb737fa"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -83,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
@@ -266,11 +256,6 @@ hash = "ecab559e0ba32b904622ba4d4f8190d440a9ff888843057cdf0b730488f19b7e"
 metafile = true
 
 [[files]]
-file = "mods/mcqoy.pw.toml"
-hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
@@ -403,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "ffaa11cd58e879d8309976f670f82d156ef5286cef6daad2e76b0fc3902fb4e0"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
