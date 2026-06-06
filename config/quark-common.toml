@@ -1,0 +1,5 @@
+[general]
+	"Enable 'q' Button" = false
+
+[client]
+	"Improved Tooltips" = false

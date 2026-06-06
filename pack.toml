@@ -6,8 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a7cab0668bfb3b1e53c674c94893f446530281b6fef6aca866c51ede4229f77a"
+hash = "6991b83b12805081408f101d76763267b5a00650a47206f31631078d2c06fd4d"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.233"
+
+[options]
+datapack-folder = "config/openloader/data/"

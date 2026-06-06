@@ -1,0 +1,15 @@
+{
+    "items": [
+        "friendsandfoes:wildfire_crown"
+    ],
+    "patch": {
+        "scorchful:heat_resistance": {
+            "heat_resistance": 1.0,
+            "environment_heat_resistance": 0.25
+        },
+        "frostiful:frost_resistance": {
+            "frost_resistance_multiplier": -1,
+            "environment_frost_resistance_multiplier": -1
+        }
+    }
+}

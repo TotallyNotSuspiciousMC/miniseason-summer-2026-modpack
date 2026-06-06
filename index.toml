@@ -5,6 +5,26 @@ file = "config/loot-client.toml"
 hash = "c09ad4d6cfa30ebca63fe93c5bc9eaa5be33b4ff7d83633e7c344a021d656328"
 
 [[files]]
+file = "config/openloader/packs/MiniSeason2026Summer/data/tns-mini/defaulted/default_component_patches/netherite_heat_resistance.json"
+hash = "b89402ddf607aa2482dc15031071284f88a87006558ca11f57f28ed0a24a02b0"
+
+[[files]]
+file = "config/openloader/packs/MiniSeason2026Summer/data/tns-mini/defaulted/default_component_patches/no_heat_resistance.json"
+hash = "3d369a70b605869968e134a2017cb4882106e27c630a12a25b4d2d4a1f5d0163"
+
+[[files]]
+file = "config/openloader/packs/MiniSeason2026Summer/data/tns-mini/defaulted/default_component_patches/wildfire_crown.json"
+hash = "03f4e8ce16b5e9538a8bb8b5d98efa0fcaceff8ac56038de7f5f2ebddf71452d"
+
+[[files]]
+file = "config/openloader/packs/MiniSeason2026Summer/pack.mcmeta"
+hash = "c894022bf3d559c76ab14b68cf6ef81e31f1ef4509be63d64679f6803d16f8dc"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "eb96616e7ad02b50c74f468163d08b993d128734cf9512f3c65ae6176166ef0c"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -75,6 +95,11 @@ hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
@@ -127,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/defaulted.pw.toml"
+hash = "059bee6a2b44324240323679935c3b40aba6511f328eba14bcd163d55b70568d"
 metafile = true
 
 [[files]]
@@ -280,11 +310,6 @@ hash = "ecab559e0ba32b904622ba4d4f8190d440a9ff888843057cdf0b730488f19b7e"
 metafile = true
 
 [[files]]
-file = "mods/mod-menu-(neoforge-edition).pw.toml"
-hash = "1a17dcb130a85f5fe951e5187d6e4ffcfcbf7e5c6bf9f6ccb453431c0692143e"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
@@ -322,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]

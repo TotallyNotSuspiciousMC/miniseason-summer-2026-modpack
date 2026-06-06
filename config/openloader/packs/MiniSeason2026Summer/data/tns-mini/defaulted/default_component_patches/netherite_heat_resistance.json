@@ -1,0 +1,13 @@
+{
+    "items": [
+        "create:netherite_backtank",
+        "create:netherite_diving_helmet",
+        "create:netherite_diving_boots"
+    ],
+    "patch": {
+        "scorchful:heat_resistance": {
+            "heat_resistance": 0.5,
+            "environment_heat_resistance": 0.125
+        }
+    }
+}

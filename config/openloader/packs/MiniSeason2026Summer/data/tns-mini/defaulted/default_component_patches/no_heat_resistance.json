@@ -1,0 +1,17 @@
+{
+    "items": [
+        "create:cardboard_helmet",
+        "create:cardboard_chestplate",
+        "create:cardboard_leggings",
+        "create:cardboard_boots",
+        "create:copper_backtank",
+        "aeronautics:aviators_goggles",
+        "luminous_nether:executioner_hood_helmet"
+    ],
+    "patch": {
+        "scorchful:heat_resistance": {
+            "heat_resistance": 0,
+            "environment_heat_resistance": 0
+        }
+    }
+}
