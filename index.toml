@@ -494,3 +494,8 @@ metafile = true
 file = "resourcepacks/arids-immersive-resprites.pw.toml"
 hash = "49ea030c9db88ab47c743ab5f09486ad5cc35dba317efcd6b7046f10b7410e61"
 metafile = true
+
+[[files]]
+file = "resourcepacks/modded-omelet.pw.toml"
+hash = "2a10c4e274cd6c5f713e3b61e63c52dcdbf4bea455245798dc678e74d2bc9060"
+metafile = true
