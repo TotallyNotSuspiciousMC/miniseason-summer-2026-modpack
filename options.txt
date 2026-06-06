@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","mod_resources","file/ImmersiveResprites-1.1.zip","file/Modded Omelet [1-20] [161].zip"]
