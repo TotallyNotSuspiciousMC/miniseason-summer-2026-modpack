@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-snow.pw.toml"
-hash = "759ebd337fa67f558a204baef57041ca0392fd206c786a3e7643a5c6b27f4cee"
+hash = "c8f17b808582f80a8afe90f44844ae83965afe6372c572ac5a27d595ad8c59b0"
 metafile = true
 
 [[files]]
@@ -258,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/luminous-tag.pw.toml"
 hash = "ecab559e0ba32b904622ba4d4f8190d440a9ff888843057cdf0b730488f19b7e"
+metafile = true
+
+[[files]]
+file = "mods/mod-menu-(neoforge-edition).pw.toml"
+hash = "1a17dcb130a85f5fe951e5187d6e4ffcfcbf7e5c6bf9f6ccb453431c0692143e"
 metafile = true
 
 [[files]]
@@ -367,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "514dab7fee713bccf17296d21b4f25d9e67954a96e7de1a8b586b90ea00a2bed"
+hash = "82aedef3c457ffe51e27a4153aaf73ef7c073b87059a021495af487e41ed2e99"
 metafile = true
 
 [[files]]
@@ -447,42 +452,42 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
+hash = "c2cb28859e7bcc0eb4ce59c5792f90fa5f8ab8865f5867ba26a5a345ec60b498"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
+hash = "c2dc09f214e7c1cecca6cf434776c2616f6d36bd27c06a6b39f985da0453a4f5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
+hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
+hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
 
 [[files]]
