@@ -1,0 +1,13 @@
+name = "Abibliophobia | Enchanted Books"
+filename = "Abibliophobia.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xESN0ccB/versions/zA0HNHZu/Abibliophobia.zip"
+hash-format = "sha512"
+hash = "45645624ba33a41fe3c391a7124d189f25cbeab26c22e5184d4e2fbef60360e1914bd94758989e7fe6205ed378ab33c5d860a17c6c6f234087a20193dd09ddd1"
+
+[update]
+[update.modrinth]
+mod-id = "xESN0ccB"
+version = "zA0HNHZu"

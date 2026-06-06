@@ -525,6 +525,15 @@ hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "633ba5f8cf214955c0e3065f74acb9c12dae14bd263d56f3357295a26c223c2e"
+
+[[files]]
+file = "resourcepacks/abibliophobia-enchanted-books.pw.toml"
+hash = "155f1b9d98966b7fbba645f9a6a486c553b7a46f980fab8e81638806052cb9a9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/arids-immersive-resprites.pw.toml"
 hash = "49ea030c9db88ab47c743ab5f09486ad5cc35dba317efcd6b7046f10b7410e61"
 metafile = true
