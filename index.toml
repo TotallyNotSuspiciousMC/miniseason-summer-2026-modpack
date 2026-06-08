@@ -355,17 +355,13 @@ metafile = true
 
 [[files]]
 file = "mods/natures-delight.pw.toml"
-hash = "e43823fe1729cb9b95311d3b8cb7f1428e230ac957c73bbf2d239921f96a229d"
+hash = "582f79956ca7d5fb0165b22a018826c2dcbf1c0f39510533f7022508db28b1e2"
 metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
-
-[[files]]
-file = "mods/natures_delight-1.12-1.21.1.jar"
-hash = "30ff110eb4601256844bc25f26b84031226e3a910a5525e9404f26513b17078e"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
