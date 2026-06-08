@@ -2,7 +2,8 @@
     "items": [
         "create:netherite_backtank",
         "create:netherite_diving_helmet",
-        "create:netherite_diving_boots"
+        "create:netherite_diving_boots",
+        "create_jetpack:netherite_jetpack"
     ],
     "patch": {
         "scorchful:heat_resistance": {
