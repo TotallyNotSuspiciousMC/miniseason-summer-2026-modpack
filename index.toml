@@ -364,6 +364,10 @@ hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
 
 [[files]]
+file = "mods/natures_delight-1.12-1.21.1.jar"
+hash = "30ff110eb4601256844bc25f26b84031226e3a910a5525e9404f26513b17078e"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
