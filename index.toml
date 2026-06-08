@@ -535,6 +535,11 @@ hash = "689739dbc65768a51d31729598352c5cac3fd9369203bea125d745112bba23b0"
 metafile = true
 
 [[files]]
+file = "mods/waystones-sable.pw.toml"
+hash = "f594a4eb1c1780d994e98f55e5bb046693caa90a24ae7cabb5b1d08fa38b2f3d"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
 metafile = true
