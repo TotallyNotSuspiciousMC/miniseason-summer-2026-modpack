@@ -169,8 +169,8 @@ hash = "166d312672116bc62648572337c66018be6e794eb12e25fb2b508f686fdd58e5"
 metafile = true
 
 [[files]]
-file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
-hash = "3124ff7b0beddb44ec981a35a149ced3e6a29f84b72a01a1d088932d61bdbdbb"
+file = "mods/create-jetpack.pw.toml"
+hash = "ad89085cff15370c0a8bda81c22a3a040204c71f1ee170a458a949295dc219bf"
 metafile = true
 
 [[files]]
