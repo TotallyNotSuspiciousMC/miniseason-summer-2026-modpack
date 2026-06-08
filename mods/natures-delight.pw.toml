@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/TotallyNotSuspiciousMC/NaturesDelightForge/releases/download/0.1.0/natures_delight-1.12-1.21.1.jar"
-hash-format = "sha256"
-hash = "30ff110eb4601256844bc25f26b84031226e3a910a5525e9404f26513b17078e"
+hash-format = "sha512"
+hash = "a2424759028cc4f08c524d46c902666e810191c7d1c5983ca76b21cd35447ac380870196cd872ecffcf40753bcf2afbdb6fbe2e09ad88f92a1195e46e9f69a7c"
