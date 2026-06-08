@@ -25,6 +25,10 @@ file = "config/quark-common.toml"
 hash = "eb96616e7ad02b50c74f468163d08b993d128734cf9512f3c65ae6176166ef0c"
 
 [[files]]
+file = "config/trmt.json"
+hash = "3e5cdbe383110aaf5c69132fda7401df72f79195a49aed4e182331f85579687a"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -266,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "825444796cda79e107f951e7aeafcc12a41e22fab3f402ac612aa6896329abb9"
+hash = "80d4a4bcd1971eaed260201636aa87c8b37e939f1beffbbc33da563a3ba42cd2"
 metafile = true
 
 [[files]]
@@ -352,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
-metafile = true
-
-[[files]]
-file = "mods/natures-delight.pw.toml"
-hash = "e43823fe1729cb9b95311d3b8cb7f1428e230ac957c73bbf2d239921f96a229d"
 metafile = true
 
 [[files]]
@@ -521,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo-patches.pw.toml"
-hash = "bdd8583dd5000222da793319e96c7da1ac00017cb2b0fb3eadc3208c7927a2cb"
+hash = "c2955cfaed2d7d431c16897d9aeca3a40ada7e05d0c03e2c76377a70b31486e3"
 metafile = true
 
 [[files]]
