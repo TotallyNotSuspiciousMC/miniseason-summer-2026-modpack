@@ -6,7 +6,7 @@ hash = "c09ad4d6cfa30ebca63fe93c5bc9eaa5be33b4ff7d83633e7c344a021d656328"
 
 [[files]]
 file = "config/openloader/packs/MiniSeason2026Summer/data/tns-mini/defaulted/default_component_patches/netherite_heat_resistance.json"
-hash = "b89402ddf607aa2482dc15031071284f88a87006558ca11f57f28ed0a24a02b0"
+hash = "ea56765ac2f3f22617c1e4067014bef8bf969186745b915f60c361c1712d2b2d"
 
 [[files]]
 file = "config/openloader/packs/MiniSeason2026Summer/data/tns-mini/defaulted/default_component_patches/no_heat_resistance.json"
