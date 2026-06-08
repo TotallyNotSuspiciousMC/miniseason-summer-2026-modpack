@@ -1,0 +1,8 @@
+name = "Nature's Delight"
+filename = "natures_delight-1.12-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TotallyNotSuspiciousMC/NaturesDelightForge/releases/download/0.1.0/natures_delight-1.12-1.21.1.jar"
+hash-format = "sha256"
+hash = "30ff110eb4601256844bc25f26b84031226e3a910a5525e9404f26513b17078e"
