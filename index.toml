@@ -355,6 +355,11 @@ hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
 
 [[files]]
+file = "mods/natures-delight.pw.toml"
+hash = "e43823fe1729cb9b95311d3b8cb7f1428e230ac957c73bbf2d239921f96a229d"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
